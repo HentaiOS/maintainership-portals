@@ -36,3 +36,9 @@ We have several design guidelines that you have to follow for unifying the exper
 As you can tell, this repository holds all official devices' trees.
 
 - [Devices Repository](https://github.com/orgs/hentaiOS-Devices)
+
+### 5. After you have done reading all of them
+
+Well, after you are done reading all of that, you can fill this form to apply yourself to maintaining hentaiOS.
+
+- [hentaiOS Maintainership Form](https://forms.gle/2b1dDYCWtzGrGA9p6)
