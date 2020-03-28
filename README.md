@@ -8,7 +8,7 @@ You must fulfill the following requirements before applying :
 
 - [Maintainers requirements](maintainers_requirements.md)
 
-- [Device requirements](device-requirements.md)
+- [Device requirements](device_requirements.md)
 
 - [Maintainer's Code Of Conduct](maintainers_coc.md)
 
